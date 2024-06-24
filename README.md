@@ -4,6 +4,8 @@
 
 ![IsmaelGomesPereira GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaelGomesPereira&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelGomesPereira&layout=compact)
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br>
@@ -19,4 +21,4 @@ Apaixonado por tecnologia, o bem estar e educação para todos.
 Contato
 - email: ismaelsilvestrin@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelGomesPereira&layout=compact)
+
