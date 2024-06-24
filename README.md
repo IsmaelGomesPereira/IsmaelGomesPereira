@@ -19,3 +19,4 @@ Apaixonado por tecnologia, o bem estar e educação para todos.
 Contato
 - email: ismaelsilvestrin@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelGomesPereira&layout=compact)
